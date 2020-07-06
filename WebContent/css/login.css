@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+.login_main{
+	background-color:#ffffff;
+	border:inset;
+	width: 400px;
+	align-content: center;
+}
+.login_head{
+	align-content:center;
+	height: 169px;
+}
+.login_icon{
+	align-self: center;
+	
+}
+.login_foot{
+	height: 30px;
+}
+.login{
+	 align-self: center;
+}
+/*.login_bg{
+	background-image: url(../img/login_bg.jpg);
+	background-size:cover;
+	height: "100%"
+	
+}*/
+.sbg{
+	 background-image: url("../img/signup.jpg");
+	 background-repeat: no-repeat;
+	 background-position: center;
+	 height: 800px;
+}

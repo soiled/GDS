@@ -1,0 +1,10 @@
+@charset "UTF-8";
+*.login_head{
+	background-color: #3c8cfb;
+}
+*.users_information{
+	align-content: "right";
+}
+*.the_span{
+	background-color: #ffffff;
+}

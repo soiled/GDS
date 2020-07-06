@@ -1,0 +1,7 @@
+@charset "UTF-8";
+.sbg{
+	 background-image: url("../img/loading.jpg");
+	 background-repeat: no-repeat;
+	 background-position:bottom;
+	 height: 700px;
+}
